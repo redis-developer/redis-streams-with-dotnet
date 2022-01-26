@@ -2,7 +2,7 @@
 
 This repo contains three example projects using Redis streams with .NET
 
-* Using the [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) Library - [RedisStreamsWithStackExchange](/RedisStreamsWithStackExchange)
+* Using the [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) Library - [RedisStreamsWithStackExchange](/RedisStreamsStackExchange)
 * Using the [ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis) Library - [StreamsWithServicestack](/StreamsWithServicestack)
 * Using the [CSRedis](https://github.com/2881099/csredis) - [StreamsWithCSRedis](/StreamsWithCSRedis)
 
