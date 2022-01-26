@@ -21,5 +21,5 @@ docker run -p 6379:6379
 Each of the apps can be run using the `dotnet run` command, you can either change directories into the directory where the app is and run `dotnet run` or you can use the `--project` option to specify which project you want to run, e.g.
 
 ```bash
-dotnet run --project 
+dotnet run --project .\RedisStreamsStackExchange\RedisStreamsStackExchange.csproj
 ```
